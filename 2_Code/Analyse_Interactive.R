@@ -6,7 +6,7 @@
 
 ### Statistiques simplaes ----------------------------
 
-# Lire le fichier Tourismus.csv et l'assigner à l'objet `tourisme`
+# Lire le fichier tourisme.csv et l'assigner à l'objet `tourisme`
 
 
 # Calculer la moyenne (mean()) des variables Visiteurs et Durée
