@@ -7,7 +7,7 @@
 
 # Trouvez le fichier tourisme.csv dans votre ordinateur
 
-# Copiez le fichier tourisme.csv dans le dossier 1_Data
+# Copiez le fichier tourisme.csv dans le dossier 1_Data si nécessaire
 
 # Chargez les données en utilisant read.csv(). 
 # Rappellez-vous de l'astuce de la saisie automatique.
